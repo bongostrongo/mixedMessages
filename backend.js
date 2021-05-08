@@ -22,8 +22,8 @@ const randThing = () => {
 }
 
 const spitMessage = () => {
-    document.getElementById("message").innerHTML='Try ' + randAdjective() + ' ' + randVerb() + ' ' + randThing();
-
+//     document.getElementById("message").innerHTML='Try ' + randAdjective() + ' ' + randVerb() + ' ' + randThing();
+        document.getElementById("message").innerHTML='Try ';
 };
 
 console.log('Try ' + randAdjective() + ' ' + randVerb() + ' ' + randThing());
