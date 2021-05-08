@@ -1,6 +1,6 @@
-let verbs = require('./verbs.js');
-let adjectives = require('./adjectives.js');
-let things = require('./things.js');
+// let verbs = require('./verbs.js');
+// let adjectives = require('./adjectives.js');
+// let things = require('./things.js');
 
 let vowels = ['a','e','i','o','u']
 
